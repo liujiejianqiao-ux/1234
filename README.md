@@ -8,3 +8,4 @@ This is a practice repository created while learning GitHub.
 - How to use GitHub
 - How to create repositories
 - How to edit files
+Practicing branch editing with jq69
